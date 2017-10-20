@@ -1,8 +1,12 @@
 html
 {
 	font-size:16px;
-	font-family:'Source Sans Pro',sans-serif;
+	font-family:'Source Sans Pro',sans-serif
+}
+body
+{
 	background-color: #FFFFF9;
+	padding:0 20px 20px 20px
 }
 h1,h2,h3,h4
 {
@@ -11,11 +15,22 @@ h1,h2,h3,h4
 h1
 {
 	font-size:60px;
-	text-align:center;
+	text-align:center
 }
+/*h2
+{
+
+}*/
+/*h3
+{	
+
+}*/
+/*h4
+{
+
+}*/
 p,li
 {	font-size:16px;
 	text-align:left;
-	letter-spacing:1px;
-
+	letter-spacing:0px
 }
