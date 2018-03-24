@@ -1,8 +1,12 @@
-# Rockets Blazing
+---
+layout: post
+title:  "I love the internet!"
+date:   2017-10-10 00:19:13 +0530
+categories: blog update
+---
 
-### 'cause who wants to get there second?
 
-This is hobby project of mine to experiment with web hosting and web services like cloud storage, email, website, rss and whatever a user may need on the internet.
+RocketsBlazing! This is hobby project of mine to experiment with web hosting and web services like cloud storage, email, website, rss and whatever a user may need on the internet.
 I had a few key motivations to start on this endeavour, some of them being:
 * Getting my personal data back from big corporations.
 * Creating a service that i could use myself and share with my friends.

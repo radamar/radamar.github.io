@@ -1,26 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-US">
-    <head>
-        <meta charset="utf-8">
-        <meta name="description" content="RocketsBlazing Homepage provides latest update on the state of RocketsBlazing web services.">
-        <!--Meta information to improve experience for social network users-->
-        <meta property="og:type" content="website">
-        <meta property="og:image" content="http://www.rocketsblazing.online/images/rocket1_icon.jpg">
-        <meta property="og:title" content="RocketsBlazing Home">
-        <meta property="og:description" content="RocketsBlazing homepage provides latest update on the state of RocketsBlazing web services.">
-        <title>Home</title>
-        <!--Adobe Source sans through google fonts.-->
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-        <link rel="shortcut icon" href="images/rocket1_icon.ico" sizes="64x64" type="image/x-icon">
-        <link rel="stylesheet" href="styles/style1.css" type="text/css"/>     
-    </head>
-    <body>
-        <img src="images/rocket1.png" alt="RocketsBlazing logo: A giant rocket taking off!">
-        <h1>Rockets Blazing</h1>
-        <h4>'cause who wants to get there second?</h4>
-        <p>A bold new adventure into the <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">unknown</a>... without fear and acknowledging the risk yet not shying away from it. Bound to the duty as we consider it neccessarry part of being human. The urge to discover and usher into a brand new era. This is what we are about. Pursuit of the human spirit of exploration. For without discovery there would be no frontier, no excitement. The feeling of being on the edge.</p>
-        <p>The secret of getting ahead is getting started. - Mark Twain</p>
+---
+layout: post
+title:  "RocketsBlazing!"
+date:   2017-10-05 00:19:13 +0530
+categories: blog mission
+---
 
-        <script src="scripts/javascript1.js"></script>
-    </body>
-</html>
+'cause who wants to get there second?
+A bold new adventure into the [unknown][rick-roll]... without fear, acknowledging the risk yet not shying away from it. Bound to the duty as we consider it necessary part of being human. The urge to discover and usher into a brand new era. This is what we are about. Pursuit of the human spirit of exploration. For without discovery there would be no frontier, no excitement. The feeling of being on the edge.
+The secret of getting ahead is getting started. - Mark Twain
+
+[rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
