@@ -79,4 +79,4 @@ I scored 9.2 GPA out of cumulative 10 in grade tenth/high school(2013). Particip
   [7]: https://github.com/radamar/52n-wps-algorithm-ndvi
   [8]: http://rocketsblazing.online/2018/03/25/Scrum-Backlog.html
   [9]: https://youtube.com/xtremistsdeathgaming
-  [10]: https://rocketsblazing.onine/2018/03/25/Sprint-Schedule.html
+  [10]: https://rocketsblazing.online/2018/03/25/Sprint-Schedule.html
