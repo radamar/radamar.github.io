@@ -18,16 +18,16 @@ The project can be further divided into two parts,
 1. To have access to higher level Copernicus data products. Important to remove the user-intervention when processing the products. One of the key issues discussed in the proposal was the need to manually download and pre process the data to get higher level products. So, to remedy this the project will begin with implementing a direct WPS to Copernicus data interface which can produce the Level2A products and beyond that.
   
 2. To expand the Processing Capabilities of WPS, implement new algorithms based on SNAP framework. There are some ready to go algorithm's already present in the SNAP-engine repository. It is only a matter of implementing them in the WPS. More importantly integrating these processes well with the rest of the capabilities of WPS.
+
 ## Milestones & Deliverables
-check Scrum [Backlog][8].
+Check Scrum [Backlog][8].
 
 ## Schedule:
+Check Sprint [Schedule][10].
+
 
 ## Working hours:
-
-## Scrum Backlog:
-
-## Sprint Schedule:
+As part of GSOC we are expected to put out atleast 30 hours of work per week. For simplicity i will assume 6 hours of work a day will suffice. Since Indian timezone is ahead of German timezone by approx 5 hours i will be able to complete my work during the day and it would be available for my Mentor B. Pross and A. Dewall during their daytime to review and make suggestions.
 
 ## Why 52°North?
 52°North is doing some great work. I am interested in working in bringing the innovations in data to a larger set of users, and in a software that is free and open source. I think it's important that people understand the value of remote sensing and sensor web to better manage our resources on this planet. There is a huge store of data but it won't be of any use if no one can understand it or it's very hard to analyse it. I want to help make this data easier to access, whether it be to run on small computers or low technical skill. So, that there is a foundation for others to work on. I think it's important that the best environment experts can get the data they need to analyse the effects we as a species have on the rest of the biosphere and the global weather.
@@ -36,7 +36,7 @@ check Scrum [Backlog][8].
 I like the challenge of it. This project is challenging but not too challenging that it can't be done.
 
 ## Why are you suited to carry the project?
-I don't think I am the only person for the job. But not very many people are working on it and we could definitely use more. Still, I will say that I have good experience with computers and I have used a variety of software on OSGeo disc. I have some experience with servers, one time, making a Nextcloud instance on Google Cloud Platform so that me and my friends don't have to use propreitary cloud services(1). I have done some hobby projects on java like calculators, submitting some code to AdAway(2). I'll be a good fit for this project bacause I am confident in working alone, I won't care if very few people use it, but I care that those who use it are satisfied.
+I don't think I am the only person for the job. But not very many people are working on it and we could definitely use more. Still, I will say that I have good experience with computers and I have used a variety of software on OSGeo disc. I have some experience with servers, one time, making a Nextcloud instance on Google Cloud Platform so that me and my friends don't have to use propreitary cloud services. I have done some hobby projects on java like calculators, submitting some code to AdAway. I'll be a good fit for this project bacause I am confident in working alone, I won't care if very few people use it, but I care that those who use it are satisfied.
 
 ## Relation of project to ongoing studies. 
 [It's never unrelated.][6]
@@ -50,33 +50,26 @@ I understand.
 ## Do you have any known time conflicts in the coding period? 
 I'll be contributing to other open source projects to which i think are important, approx. 10 hours a week. Apart from my studies, I don't see my work for Summer of Code to be distracted by something else.
 
-## Experience
 ## Open Source Experience
 Submitted a Pull Request to AdAway/AdAway on Github. [Open]
 Designed application with SQL backend for school elections.
 ## Programming Level:
-{% highlight shell %}
 Intermediate, I think I can write 50 lines of code a day.
-{% endhighlight %}
 ## Work experience
-{% highlight shell %}
 Freelance graphics and effects designer.
 Youtube [channel][9] where we did reviews of computer parts.
 But i guess that doesn't count.
-{% endhighlight %}
 ## Academic experience and performance
-{% highlight shell %}
-I scored 9.2 CGPA out of cumulative 10 in grade tenth/high school(2013). Participated and won many quizzes, recieved a credit against admission at Triumphant Institute of Management Education, for winning a team quiz event(2016). Participated in Tech quizzes across schools and won many. Recieved the Scientific Inclination award twice in high school. Received a certificate for building a voting application for the school council.
-{% endhighlight shell %}
+I scored 9.2 GPA out of cumulative 10 in grade tenth/high school(2013). Participated and won many quizzes, recieved a credit against admission at Triumphant Institute of Management Education, for winning a team quiz event(2016). Participated in Tech quizzes across schools and won many. Recieved the Scientific Inclination award twice in high school. Received a certificate for building a voting application for the school council.
+
 ## Personal Details
-{% highlight shell %}
-Name: Amar Singh
-Country: India
-E-mail: radamar@protonmail.com
-Phone: +91 9910229366
-Timezone: UTC +5:30
-University and Degree: Indra Gandhi National Open University, Bachelor in Science
-{% endhighlight %}
+# Name: Amar Singh
+# Country: India
+# E-mail: radamar@protonmail.com
+# Phone: +91 9910229366
+# Timezone: UTC +5:30
+# University and Degree: Indra Gandhi National Open University, Bachelor in Science
+
   [1]: https://kraft-de-paper.blogspot.in/
   [2]: https://www.flickr.com/photos/amar_znzi
   [3]: https://radamar.github.io/
@@ -86,8 +79,4 @@ University and Degree: Indra Gandhi National Open University, Bachelor in Scienc
   [7]: https://github.com/radamar/52n-wps-algorithm-ndvi
   [8]: http://rocketsblazing.online/2018/03/25/Scrum-Backlog.html
   [9]: https://youtube.com/xtremistsdeathgaming
-## Comments
-
-(1): In the end we ended up not using it.
-
-(2): It made my day when someone commented "i love that, can we add that please." on my pull request.
+  [10]: https://rocketsblazing.onine/2018/03/25/Sprint-Schedule.html
