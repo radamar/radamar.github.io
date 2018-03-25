@@ -13,22 +13,90 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Where things are
 source: .
-destination: _site/
-timezone: Asia/Kolkata
+destination: ./_site/
+collection_dir: .
+plugins_dir: _plugins
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+collections:
+  posts:
+    output: true
+
+# Handling Reading
+safe: false
+include: [".htaccess"]
+exclude: ["Gemfile","Gemfile.lock","vendor/bundle"]
+keep_files: [".git",".svn"]
 encoding: utf-8
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future: false
+unpublished: false
+
+# Plugins
+whitelist: []
+plugins: []
+
+#Conversion
+markdown: kramdown
 highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Serving
+detach: false
+port: 4000
+host: 127.0.0.1
+baseurl: ""
+show_dir_listing: false
+
+# Outputting
+permalink: date
+paginate_path: /page:num
+timezone: Asia/Kolkata
+
+quiet: false
+verbose: false
+defaults: []
+
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
+
+# Markdown Processors
+  rdiscount:
+    extensions: []
+  redcarpet:
+    extensions: []
+
+  kramdown:
+    auto_id: true
+    entity_output: as_char
+    toc_levels: 1..6
+    smart_quotes: lsquo,rsquo,ldquo,rdquo
+    input: GFM
+    hard_wrap: false
+    footnote_nr: 1
+    show_warning: false
 
 title: RocketsBlazing
 email: radamar@protonmail.com
 description: Because who wants to get there second?
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rocketsblazing.online" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: radamar
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
