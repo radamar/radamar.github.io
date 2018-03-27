@@ -1,17 +1,19 @@
 ## Features
 
-Integrate the Ndvi Algorithm with WPS.
+__1. Integrate the Ndvi Algorithm with WPS.__
 
-Make WPS able to accept and handle Copernicus data.
+__2. Make WPS able to accept and handle Copernicus data.__
 
-Use org.esa.snap.gpf.Operator class to define new 'MyOp' that is compatible with 52N WPS and OGC WPS standards.
+__3. Use org.esa.snap.gpf.Operator class to define new 'MyOp' that is compatible with 52N WPS and OGC WPS standards.__
 
-Implement a useful algorithm based on 'MyOp'.
+__4. Implement a useful algorithm based on 'MyOp'.__
+
+__5. Integrate GPF into WPS workflows.__
 
 ...
 
 ## User stories:
 
-WPS process to get Level 2A data from Copernicus Level 1C.
+__1. WPS process to get Level 2A data from Copernicus Level 1C.__
 
 ...
