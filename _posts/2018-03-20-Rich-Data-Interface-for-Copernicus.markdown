@@ -82,13 +82,13 @@ I scored 9.2 GPA out of cumulative 10 in grade tenth/high school(2013). Particip
 # Timezone: UTC +5:30
 # University and Degree: Indra Gandhi National Open University, Bachelor in Science
 
-  [1]: https://kraft-de-paper.blogspot.in/
-  [2]: https://www.flickr.com/photos/amar_znzi
-  [3]: https://radamar.github.io/
-  [4]: https://github.com/AdAway/AdAway/pull/1001
-  [5]: https://rocketsblazing.online 
-  [6]: https://www.bostonglobe.com/arts/music/2016/09/18/six-degrees-hungarian-mathematician-paul-erdos/mE8BVQp2vXQMSBQLPuLOzN/story.html
-  [7]: https://github.com/radamar/52n-wps-algorithm-ndvi
-  [8]: http://rocketsblazing.online/2018/03/25/Scrum-Backlog.html
-  [9]: https://youtube.com/xtremistsdeathgaming
-  [10]: https://rocketsblazing.onine/2018/03/25/Sprint-Schedule.html
+[1]: https://kraft-de-paper.blogspot.in/
+[2]: https://www.flickr.com/photos/amar_znzi
+[3]: https://radamar.github.io/
+[4]: https://github.com/AdAway/AdAway/pull/1001
+[5]: https://rocketsblazing.online 
+[6]: https://www.bostonglobe.com/arts/music/2016/09/18/six-degrees-hungarian-mathematician-paul-erdos/mE8BVQp2vXQMSBQLPuLOzN/story.html
+[7]: https://github.com/radamar/52n-wps-algorithm-ndvi
+[8]: http://rocketsblazing.online/2018/03/25/Scrum-Backlog.html
+[9]: https://youtube.com/xtremistsdeathgaming
+[10]: https://rocketsblazing.online/2018/03/25/Sprint-Schedule.html
