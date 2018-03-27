@@ -1,19 +1,25 @@
 ## Features
 
-__1. Integrate the Ndvi Algorithm with WPS.__
+1. Integrate the challenge Ndvi Algorithm with WPS.
 
-__2. Make WPS able to accept and handle Copernicus data.__
+1. Include the snap processes in GetCapabilites.
 
-__3. Use org.esa.snap.gpf.Operator class to define new 'MyOp' that is compatible with 52N WPS and OGC WPS standards.__
+2. Create a 'request example' for SNAP Ndvi process on copernicus data.
 
-__4. Implement a useful algorithm based on 'MyOp'.__
+3. 'Describe process' for Ndvi process.
 
-__5. Integrate GPF into WPS workflows.__
+2. Make WPS capable of parsing Snap 'Graph' objects.
+
+3. Implement an algorithm using 'Operator'.
+
+4. Design a use case for testing.
+
+5. Integrate GPF into WPS to work on Copernicus data.
+
+6. WPS process to get Level 2A data from Copernicus Level 1C.
 
 ...
 
 ## User stories:
-
-__1. WPS process to get Level 2A data from Copernicus Level 1C.__
 
 ...
