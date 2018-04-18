@@ -116,7 +116,7 @@ npm install -g postcss gulp-cli postcss-cssnano postcss-import
 {% endhighlight %}
 
 Make a bash script in the chrome directory itself:
-update.sh
+`update.sh`
 {% highlight shell %}
 #!/usr/bin/zsh
 cp userChrome.css userChrome.css.bak
