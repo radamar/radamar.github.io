@@ -13,7 +13,10 @@ Next Up, if you want to have a tabs sidebar instead of a tab bar at the top of t
 
 ## Find your firefox profile folder.
 
-You will now need to find your user's chrome folder which will be located at ~/.mozilla/firefox/_your-profile_/chrome. It might be different in your case.
+You will now need to find your user's chrome folder which will be located at 
+`~/.mozilla/firefox/_your-profile_/chrome`
+It might be different in your case.
+
 {% highlight shell %}
 firefox about:profiles
 {% endhighlight %}
@@ -33,7 +36,7 @@ git clone https://github.com/overdodactyl/ShadowFox.git ShadowFox
 {% endhighlight %}
 
 ## Make a new file imports_userChrome.css and imports_userContent.css
-~/.mozilla/firefox/your-profile/chrome/imports_userChrome.css
+`~/.mozilla/firefox/_your-profile_/chrome/imports_userChrome.css`
 {% highlight css %}
 @import "ShadowFox/css/common-files/color_variables.css";
 @import "ShadowFox/css/common-files/trees.css";
@@ -69,7 +72,7 @@ git clone https://github.com/overdodactyl/ShadowFox.git ShadowFox
 
 {% endhighlight %}
 
-~/.mozilla/firefox/your-profile/chrome/imports_userContent.css
+`~/.mozilla/firefox/_your-profile_/chrome/imports_userContent.css`
 {% highlight css %}
 /* Required for all users */
 @import "ShadowFox/css/common-files/color_variables.css";
