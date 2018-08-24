@@ -6,7 +6,7 @@ categories: blog update
 ---
 
 
-RocketsBlazing! This is hobby project of mine to experiment with web hosting and web services like cloud storage, email, website, rss and whatever a user may need on the internet.
+RocketsBlazing! This is hobby project to experiment with web hosting and web services like cloud storage, email, website, rss and whatever a user may need on the internet.
 I had a few key motivations to start on this endeavour, some of them being:
 * Getting my personal data back from big corporations.
 * Creating a service that i could use myself and share with my friends.
